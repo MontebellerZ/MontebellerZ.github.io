@@ -63,6 +63,16 @@ body{
 	margin-bottom: 400px;
 }
 
+#curriculo:link, #curriculo:visited{
+	text-decoration: none;
+	color: rgb(59, 140, 56);
+}
+
+#curriculo:hover, #curriculo:active{
+	text-decoration: none;
+	color: rgb(31, 209, 25);
+}
+
 #home, #skills, #formation, #portfolio, #contact{
 	height: 400px;
 	width: 1000px;
